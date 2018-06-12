@@ -3,7 +3,7 @@ Linux下基于C语言开发的俄罗斯方块游戏
 
 ---
 
->##curses库在linux下画游戏窗口
+##curses库在linux下画游戏窗口
 
 ---
 
